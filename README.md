@@ -7,7 +7,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/mahirjain10?style=flat&color=0A66C2)](https://github.com/mahirjain10)
 [![Profile Views](https://komarev.com/ghpvc/?username=mahirjain10&color=orange)](https://github.com/mahirjain10)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mahir-jain-bbbaab221/)
-[![Twitter](https://img.shields.io/badge/Follow%20@mahirjain_10-black?logo=x&logoColor=white)](https://x.com/jainmahir_10)
+[![Twitter](https://img.shields.io/badge/Follow%20@jainmahir_10-black?logo=x&logoColor=white)](https://x.com/jainmahir_10)
 
 I am an **MCA graduate from Mumbai University** and a backend-focused software developer passionate about building scalable and high-performance systems. I work across **Golang**, **Node.js**, **microservices**, **distributed systems**, cloud infra, and more — and I am comfortable adapting to any tech stack.
 
