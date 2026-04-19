@@ -5,6 +5,7 @@
 ## Backend Engineer | Distributed Systems and High-Performance Architecture
 
 [![GitHub Followers](https://img.shields.io/github/followers/mahirjain10?style=flat&color=0A66C2)](https://github.com/mahirjain10)
+[![GitHub Stars](https://img.shields.io/github/stars/mahirjain10?style=flat&color=yellow&label=Total%20Stars)](https://github.com/mahirjain10?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=mahirjain10&color=orange)](https://github.com/mahirjain10)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mahirjain.com-ff6b6b?logo=firefox&logoColor=white)](https://www.mahirjain.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mahir-jain-bbbaab221/)
@@ -12,7 +13,7 @@
 
 MCA graduate from Mumbai University. I build scalable, fault-tolerant backend systems using Go, Kafka, and Redis, focused on microservices, distributed architectures, and high-performance infrastructure.
 
-**Open to freelance and contract work.**
+**Open to full time, freelance, and contract work.**
 
 </div>
 
