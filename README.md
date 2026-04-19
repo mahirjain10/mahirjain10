@@ -65,28 +65,28 @@ MCA graduate from Mumbai University. I build scalable, fault-tolerant backend sy
 ### LogFlow - Distributed Log Aggregation Platform
 End-to-end log pipeline built with **Go**, **Kafka**, **Elasticsearch**, **gRPC**, **WebSockets**, and **React**. Mock services publish logs to Kafka, a Go consumer indexes them into Elasticsearch and streams them live to a React dashboard. Supports real-time filtering by log level and service, cursor-based pagination using `search_after`, and a full Docker Compose setup with Kafka, Zookeeper, Elasticsearch, Kibana, and Grafana.
 
-🔗 **GitHub:** https://github.com/mahirjain10/logflow &nbsp;|&nbsp; 🌐 **Demo:** https://www.mahirjain.com/project-and-experience/logflow
+🔗 [GitHub](https://github.com/mahirjain10/logflow) &nbsp;|&nbsp; 🌐 [Demo](https://www.mahirjain.com/project-and-experience/logflow)
 
 ---
 
 ### Distributed Image Processing System
 Multi-queue distributed image processor using **Go workers**, **NestJS**, **RabbitMQ**, **Redis Pub/Sub**, and **AWS S3 + SNS**. Achieved **4.3 jobs/sec throughput** with horizontal scaling under 100 to 500 concurrent loads.
 
-🔗 **GitHub:** https://github.com/mahirjain10/image-processing-mono-repo
+🔗 [GitHub](https://github.com/mahirjain10/image-processing-mono-repo) &nbsp;|&nbsp; 🌐 [Demo](https://www.mahirjain.com/project-and-experience/image-processing-pipeline)
 
 ---
 
 ### Reverse Proxy Cache Server
 Go reverse proxy with **Redis caching**, stale-while-revalidate, leader-follower concurrency, and health checks for automatic failover with zero downtime under backend failures.
 
-🔗 **GitHub:** https://github.com/mahirjain10/reverse-proxy-from-scratch
+🔗 [GitHub](https://github.com/mahirjain10/reverse-proxy-from-scratch) &nbsp;|&nbsp; 🌐 [Demo](https://www.mahirjain.com/project-and-experience/reverse-proxy)
 
 ---
 
 ### Stock Alert System
 Backend for user alerts with **SSE real-time updates**, scheduled stock fetching, **Redis Pub/Sub**, **Gin**, **MySQL**, and authentication.
 
-🔗 **GitHub:** https://github.com/mahirjain10/sse-stock-alert-app
+🔗 [GitHub](https://github.com/mahirjain10/sse-stock-alert-app)
 
 ---
 
