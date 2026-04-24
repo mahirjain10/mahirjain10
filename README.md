@@ -106,12 +106,30 @@ I write about Go internals, distributed systems design, and backend architecture
 
 ## GitHub Analytics
 
-| Contribution Overview | Language Breakdown |
-|---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahirjain10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=Contribution%20Overview#gh-dark-mode-only) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahirjain10&show_icons=true&theme=graywhite&hide_border=true&count_private=true&custom_title=Contribution%20Overview#gh-light-mode-only) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahirjain10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css&card_width=420&custom_title=Language%20Breakdown#gh-dark-mode-only) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahirjain10&layout=compact&theme=graywhite&hide_border=true&langs_count=8&hide=html,css&card_width=420&custom_title=Language%20Breakdown#gh-light-mode-only) |
+<table>
+  <tr>
+    <td width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mahirjain10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=Contribution%20Overview" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mahirjain10&show_icons=true&theme=graywhite&hide_border=true&count_private=true&custom_title=Contribution%20Overview" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mahirjain10&show_icons=true&theme=graywhite&hide_border=true&count_private=true&custom_title=Contribution%20Overview" alt="GitHub Stats" width="100%" />
+      </picture>
+    </td>
+    <td width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirjain10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css&card_width=420&custom_title=Language%20Breakdown" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirjain10&layout=compact&theme=graywhite&hide_border=true&langs_count=8&hide=html,css&card_width=420&custom_title=Language%20Breakdown" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirjain10&layout=compact&theme=graywhite&hide_border=true&langs_count=8&hide=html,css&card_width=420&custom_title=Language%20Breakdown" alt="Top Languages" width="100%" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
-![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahirjain10&theme=tokyo-night&hide_border=true&area=true&custom_title=30%20Day%20Activity#gh-dark-mode-only)
-![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahirjain10&theme=github&hide_border=true&area=true&custom_title=30%20Day%20Activity#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mahirjain10&theme=tokyo-night&hide_border=true&area=true&custom_title=30%20Day%20Activity" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mahirjain10&theme=github&hide_border=true&area=true&custom_title=30%20Day%20Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahirjain10&theme=github&hide_border=true&area=true&custom_title=30%20Day%20Activity" alt="Contribution Activity Graph" width="100%" />
+</picture>
 
 ---
 
