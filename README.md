@@ -11,9 +11,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mahir-jain-bbbaab221/)
 [![Twitter](https://img.shields.io/badge/Follow%20@jainmahir__10-black?logo=x&logoColor=white)](https://x.com/jainmahir_10)
 
-MCA graduate from Mumbai University. I build scalable, fault-tolerant backend systems using Go, Kafka, and Redis, focused on microservices, distributed architectures, and high-performance infrastructure.
+Backend engineer focused on distributed systems and infrastructure. I design log pipelines, image processing queues, and reverse proxies in Go — systems that have handled **4.3 jobs/sec** with horizontal scaling and **<200ms end-to-end latency**. Comfortable with the full stack from Kafka brokers to Elasticsearch indexing to gRPC service meshes.
 
-**Open to full time, freelance, and contract work.**
+**Open to full-time, contract, and remote backend roles.**
 
 </div>
 
@@ -33,31 +33,32 @@ MCA graduate from Mumbai University. I build scalable, fault-tolerant backend sy
 
 ## Tech Stack
 
-### Backend and Systems
+**Primary**
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-008ECF?logo=grpc&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+**Proficient**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-008ECF?logo=grpc&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00618A?logo=mysql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=websocket&logoColor=white)
+![SSE](https://img.shields.io/badge/SSE-0052CC?logo=server&logoColor=white)
 
-### Frontend
+**Familiar**
+
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-
-### Cloud and DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00618A?logo=mysql&logoColor=white)
 
 ---
 
@@ -73,7 +74,7 @@ End-to-end log pipeline built with **Go**, **Kafka**, **Elasticsearch**, **gRPC*
 ### Distributed Image Processing System
 Multi-queue distributed image processor using **Go workers**, **NestJS**, **RabbitMQ**, **Redis Pub/Sub**, and **AWS S3 + SNS**. Achieved **4.3 jobs/sec throughput** with horizontal scaling under 100 to 500 concurrent loads.
 
-🔗 [GitHub](https://github.com/mahirjain10/image-processing-mono-repo) &nbsp;|&nbsp; 🌐 [Demo](https://www.mahirjain.com/project-and-experience/image-processing-pipeline)
+🔗 [GitHub](https://github.com/mahirjain10/image-processing-pipeline) &nbsp;|&nbsp; 🌐 [Demo](https://www.mahirjain.com/project-and-experience/image-processing-pipeline)
 
 ---
 
@@ -87,31 +88,42 @@ Go reverse proxy with **Redis caching**, stale-while-revalidate, leader-follower
 ### Stock Alert System
 Backend for user alerts with **SSE real-time updates**, scheduled stock fetching, **Redis Pub/Sub**, **Gin**, **MySQL**, and authentication.
 
-🔗 [GitHub](https://github.com/mahirjain10/sse-stock-alert-app)
+🔗 [GitHub](https://github.com/mahirjain10/real-time-stock-monitor)
 
 ---
 
-## GitHub Stats
+## Writing
 
-<div align="center">
+I write about Go internals, distributed systems design, and backend architecture.
 
-![Mahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahirjain10&show_icons=true&theme=radical&hide_border=true&count_private=true)
+| Article | Tags | Read |
+|---|---|---|
+| **Interfaces in Go** | Go, Programming, Interfaces | [Read →](https://www.mahirjain.com/blogs/interfaces-in-go) |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahirjain10&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahirjain10&theme=radical&hide_border=true)
-
-</div>
+*More at [mahirjain.com/blogs](https://www.mahirjain.com/blogs)*
 
 ---
 
-## Contribution Graph
+## GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahirjain10&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" />
+</p>
 
-![Snake animation](https://github.com/mahirjain10/mahirjain10/blob/output/github-contribution-grid-snake.svg)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mahirjain10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=Contribution%20Overview" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirjain10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css&custom_title=Language%20Breakdown" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahirjain10&theme=tokyo-night&hide_border=true&area=true&custom_title=30%20Day%20Activity" alt="Contribution Activity Graph" />
+</p>
 
 ---
 
