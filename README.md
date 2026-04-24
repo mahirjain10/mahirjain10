@@ -111,18 +111,13 @@ I write about Go internals, distributed systems design, and backend architecture
   <img src="https://github-profile-trophy.vercel.app/?username=mahirjain10&theme=flat&no-frame=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C#gh-light-mode-only" alt="GitHub Trophies" />
 </p>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mahirjain10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=Contribution%20Overview#gh-dark-mode-only" alt="GitHub Stats" />
-      <img src="https://github-readme-stats.vercel.app/api?username=mahirjain10&show_icons=true&theme=graywhite&hide_border=true&count_private=true&custom_title=Contribution%20Overview#gh-light-mode-only" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirjain10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css&custom_title=Language%20Breakdown#gh-dark-mode-only" alt="Top Languages" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirjain10&layout=compact&theme=graywhite&hide_border=true&langs_count=8&hide=html,css&custom_title=Language%20Breakdown#gh-light-mode-only" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahirjain10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=Contribution%20Overview#gh-dark-mode-only" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahirjain10&show_icons=true&theme=graywhite&hide_border=true&count_private=true&custom_title=Contribution%20Overview#gh-light-mode-only" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirjain10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css&custom_title=Language%20Breakdown#gh-dark-mode-only" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirjain10&layout=compact&theme=graywhite&hide_border=true&langs_count=8&hide=html,css&custom_title=Language%20Breakdown#gh-light-mode-only" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahirjain10&theme=tokyo-night&hide_border=true&area=true&custom_title=30%20Day%20Activity#gh-dark-mode-only" alt="Contribution Activity Graph" />
